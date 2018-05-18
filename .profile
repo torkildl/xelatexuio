@@ -1,0 +1,1 @@
+export TEXMFLOCAL=~/Dropbox/texmf:.
